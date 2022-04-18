@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "ecobee SmartThermostat with Voice Control , Black",
+        "price": "$199.00",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "home-automation",
+        "image": "https://m.media-amazon.com/images/I/51fAWRjRupL._AC_SX425_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        },
+        "link": "https://www.amazon.com/ecobee-SmartThermostat-Voice-Control-Black/dp/B07NQT85FC/ref=sr_1_6?crid=1KJTII8CXE9UN&keywords=home%2Bautomation&qid=1650253814&s=hi&sprefix=home%2Baut%2Ctools%2C632&sr=1-6&th=1"
+    },
+    {
+        "id": 2,
+        "title": "Level Bolt Smart Lock, Bluetooth Deadbolt, Works with Your Existing Lock, Keyless Entry, Smartphone Access, Works with Apple HomeKit",
+        "price": "$152.99",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "home-automation",
+        "image": "https://m.media-amazon.com/images/I/8108+g2Fq1L._AC_SX425_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        },
+        "link": "https://www.amazon.com/Level-Lock-Bolt-Edition/dp/B086VQ37W4/ref=sr_1_10?crid=1KJTII8CXE9UN&keywords=home+automation&qid=1650254127&s=hi&sprefix=home+aut%2Ctools%2C632&sr=1-10"
+    },
+    {
+        "id": 3,
+        "title": "SwitchBot Smart Plug Mini 15A, Energy Monitor, Smart Home WiFi(2.4GHz) & Bluetooth Outlet Compatible with Alexa & Google Home, APP Remote Control & Timer Function for Home Automation, No Hub Required",
+        "price": "$11.99",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "home-automation",
+        "image": "https://m.media-amazon.com/images/I/51Y22Igo0DL._SX425_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        },
+        "link": "https://www.amazon.com/SwitchBot-Bluetooth-Function-Automation-Required/dp/B09QFLJH8T/ref=sr_1_12?crid=1KJTII8CXE9UN&keywords=home+automation&qid=1650254127&s=hi&sprefix=home+aut%2Ctools%2C632&sr=1-12"
+    },
+    {
+        "id": 4,
+        "title": "Swann Pan & Tilt Indoor Home Security Camera, Remote Control Camera Movement, Full HD 1080p Video, WiFi Connection, Night Vision, Alexa/Google (SWIFI-PTCAM232GB-GL)",
+        "price": "$89.08",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "security-camera",
+        "image": "https://m.media-amazon.com/images/I/71oK5oi-GKL._AC_SX425_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        },
+        "link": "https://www.amazon.com/Swann-Security-Movement-Connection-SWIFI-PTCAM232GB-GL/dp/B08B2QP519/ref=sr_1_1_sspa?crid=258EKKH5V7SRK&keywords=rpz+camera&qid=1650254532&sprefix=rpz+came%2Caps%2C2014&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVjhCNVBMUUVMQUVCJmVuY3J5cHRlZElkPUEwNDYwNzc0MlhCQlpDQ1RIUDlRWiZlbmNyeXB0ZWRBZElkPUEwOTkyODE5M0Y1Mzc0SDVXMjQ1RCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+    },
+    {
+        "id": 5,
+        "title": "Security Camera Outdoor 2K, blurams Wi-Fi Camera Smart Human Detection, Color Night Vision, IP66 Weatherproof, 2-Way Audio, Cloud/Local Storage, Compatible with Alexa, Google Assistant & IFTTT",
+        "price": "$51.99",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "security-camera",
+        "image": "https://m.media-amazon.com/images/I/51jVpx9eoTL._AC_SX425_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        },
+        "link": "https://www.amazon.com/dp/B08Z41W4YP/ref=syn_sd_onsite_desktop_295?psc=1&pd_rd_w=iT5tw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQk1KVjk1NkdINFo5JmVuY3J5cHRlZElkPUEwMTU0NzI4MTdPTVRNMkJFOTk3TyZlbmNyeXB0ZWRBZElkPUEwNTczODM3MVAwWjZMUUNUWDJCQyZ3aWRnZXROYW1lPXNkX29uc2l0ZV9kZXNrdG9wJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+    }
+]
