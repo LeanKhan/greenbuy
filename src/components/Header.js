@@ -20,7 +20,7 @@ function Header() {
         <div className="container px-4 mx-auto">
           <div className="text-center max-w-2xl mx-auto">
             <h1 className="text-1xl md:text-2xl font-medium mb-2">
-              #1 Directory of Home Tech appliances
+              #1 Directory of Home Tech Devices
             </h1>
           </div>
         </div>
