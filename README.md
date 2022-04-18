@@ -1,4 +1,4 @@
-learning React...
+learning React... followed this tutorial https://www.sitepoint.com/react-tailwind-css-build-site/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
